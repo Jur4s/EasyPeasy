@@ -795,6 +795,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 1E023155563209C4613545798EC4FE9F /* EasyPeasy-macOS.xcconfig */;
 			buildSettings = {
+				CLANG_ENABLE_CODE_COVERAGE = NO;
 				CODE_SIGN_IDENTITY = "-";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -831,6 +832,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 231E23F937E4DCC3FAD74F3AF09B32D1 /* EasyPeasy-iOS.xcconfig */;
 			buildSettings = {
+				CLANG_ENABLE_CODE_COVERAGE = NO;
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -866,6 +868,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 1E023155563209C4613545798EC4FE9F /* EasyPeasy-macOS.xcconfig */;
 			buildSettings = {
+				CLANG_ENABLE_CODE_COVERAGE = NO;
 				CODE_SIGN_IDENTITY = "-";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -902,6 +905,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 61FEBB33EC704C0BE0880189DE513F2E /* Pods-Demo.debug.xcconfig */;
 			buildSettings = {
+				CLANG_ENABLE_CODE_COVERAGE = NO;
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -941,6 +945,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = C88A8BFB2B88910E6D91DD6796FB61B0 /* Pods-Tests.release.xcconfig */;
 			buildSettings = {
+				CLANG_ENABLE_CODE_COVERAGE = NO;
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -979,6 +984,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 760B675DD0121559E051793246E4136B /* Pods-Demo macOS.release.xcconfig */;
 			buildSettings = {
+				CLANG_ENABLE_CODE_COVERAGE = NO;
 				CODE_SIGN_IDENTITY = "-";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -1018,6 +1024,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 179FE16E8EA7DAA04502E09B4009C5DB /* Pods-Demo macOS.debug.xcconfig */;
 			buildSettings = {
+				CLANG_ENABLE_CODE_COVERAGE = NO;
 				CODE_SIGN_IDENTITY = "-";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -1058,6 +1065,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 33742C723A1163C23E61C9E1E14A3403 /* Pods-Demo.release.xcconfig */;
 			buildSettings = {
+				CLANG_ENABLE_CODE_COVERAGE = NO;
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -1096,6 +1104,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 231E23F937E4DCC3FAD74F3AF09B32D1 /* EasyPeasy-iOS.xcconfig */;
 			buildSettings = {
+				CLANG_ENABLE_CODE_COVERAGE = NO;
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -1131,6 +1140,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 14ED3BAC75F62FC6E5781EDAB804F151 /* Pods-Tests macOS.release.xcconfig */;
 			buildSettings = {
+				CLANG_ENABLE_CODE_COVERAGE = NO;
 				CODE_SIGN_IDENTITY = "-";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -1223,6 +1233,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = DA47B781157CA3B37E7757828F982C49 /* Pods-Tests macOS.debug.xcconfig */;
 			buildSettings = {
+				CLANG_ENABLE_CODE_COVERAGE = NO;
 				CODE_SIGN_IDENTITY = "-";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -1263,6 +1274,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = F9E81CAD7DBD481ECE108C15CF064AEE /* Pods-Tests.debug.xcconfig */;
 			buildSettings = {
+				CLANG_ENABLE_CODE_COVERAGE = NO;
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
